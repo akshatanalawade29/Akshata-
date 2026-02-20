@@ -1,3 +1,4 @@
 # Akshata-
 This is my first git repository 
-Author - Akshata Nalawade
+<br>
+Author - Akshata (student)
